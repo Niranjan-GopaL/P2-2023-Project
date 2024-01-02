@@ -3,10 +3,11 @@
 
 Image processing application that has provides an intuitive UI to
 
+## Tech Stack
 
-## Tech Stack and Features
-
-
+- Frontend : Angular ( TypeScript )
+- Backend  : Java, C++, Springboot , Maven ( dependency manager for Springboot )
+- Linking  : JNI 
 
 --- 
 
@@ -23,6 +24,7 @@ You need to have the following prerequisites :-
 Open terminal and run the following command.
 ```console
 $ git clone https://github.com/Niranjan-GopaL/P2-2023-Project
+$ cd P2-2023-Project 
 ```
 
 
@@ -36,13 +38,23 @@ $ npm i && npm run start
 
 ### Back end set up
 
-stuff about back end set up
+- Open intellij
+- Go to main menu 
+- open project structure
+- go to modules / Drive Project
+- make 2 folders as aource :- src/main/java  and Libraries
+
+```console
+$ cd ImageEffectBackend/Libraries
+$ make clean && make
+```
+
 
 ---
 
 ## Breif about Logic of Effects
 
-clamp() function is used to clamp a value within a range of 0 - 255   
+All effects have use a clamp()  is used to clamp (adjust overflows of ) a value within a range of 0 - 255.   
 
 ##### Brightness.cpp  
 1. add_to_color : amount to add to each pixel based on the brightness level
@@ -146,7 +158,7 @@ filterByTimestamp() :-  filter logs by effects given from front end
 - Inversion 
 -  Flip 
 - getLogBetween
-- Git and README
+- Git and README.md
 
 ##### Narayana       
 - Dominant Color 
