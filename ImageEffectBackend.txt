@@ -1,0 +1,36 @@
+'Jan 02,2024 12:54:16 pm' Lock.png BrightnessEffect 100.0
+'Jan 02,2024 12:54:22 pm' Lock.png ContrastEffect 100.0
+'Jan 02,2024 12:54:36 pm' Lock.png GaussianBlur 25.0
+'Jan 02,2024 12:54:42 pm' Lock.png GrayScaleEffect NIL
+'Jan 02,2024 12:54:49 pm' Lock.png InvertEffect NIL
+'Jan 02,2024 12:54:49 pm' Lock.png InvertEffect NIL
+'Jan 02,2024 12:54:56 pm' Lock.png SepiaEffect NIL
+'Jan 02,2024 12:55:03 pm' Lock.png SharpenEffect 50.0
+'Jan 02,2024 18:45:21 pm' Lock.png HueSaturationEffect SVal:4.2HVal:3.7
+'Jan 02,2024 19:45:15 pm' Lock.png RotateEffect 1
+'Jan 02,2024 19:48:14 pm' Lock.png RotateEffect 1
+'Jan 02,2024 19:50:34 pm' Lock.png RotateEffect 2
+'Jan 02,2024 19:53:05 pm' Lock.png RotateEffect 1
+'Jan 02,2024 19:53:20 pm' Lock.png RotateEffect 2
+'Jan 02,2024 19:53:40 pm' Screenshot from 2023-12-25 21-10-36.png RotateEffect 2
+'Jan 02,2024 19:53:57 pm' Screenshot from 2023-12-24 16-27-41.png RotateEffect 2
+'Jan 02,2024 19:54:01 pm' Screenshot from 2023-12-24 16-27-41.png RotateEffect 2
+'Jan 02,2024 19:55:14 pm' Lock.png RotateEffect 3
+'Jan 02,2024 19:56:05 pm' Lock.png RotateEffect 3
+'Jan 02,2024 20:01:08 pm' Lock.png RotateEffect 3
+'Jan 02,2024 20:02:54 pm' Lock.png RotateEffect 1
+'Jan 02,2024 20:06:57 pm' Lock.png RotateEffect 1
+'Jan 02,2024 20:07:43 pm' Lock.png RotateEffect 1
+'Jan 02,2024 20:12:36 pm' Lock.png RotateEffect 1
+'Jan 02,2024 20:15:46 pm' Lock.png RotateEffect 1
+'Jan 02,2024 20:55:13 pm' Lock.png HueSaturationEffect SVal:10.0HVal:4.1
+'Jan 02,2024 20:55:20 pm' Lock.png BrightnessEffect 100.0
+'Jan 02,2024 20:55:28 pm' Lock.png ContrastEffect 100.0
+'Jan 02,2024 20:55:36 pm' Lock.png FlipEffect H_Val:1V_Val:0
+'Jan 02,2024 20:55:45 pm' Lock.png GaussianBlur 22.0
+'Jan 02,2024 20:55:52 pm' Lock.png GrayScaleEffect NIL
+'Jan 02,2024 20:55:59 pm' Lock.png InvertEffect NIL
+'Jan 02,2024 20:56:06 pm' Lock.png SepiaEffect NIL
+'Jan 02,2024 20:56:13 pm' Lock.png SharpenEffect 50.0
+'Jan 02,2024 20:56:16 pm' Lock.png SharpenEffect 94.0
+'Jan 02,2024 20:56:56 pm' Lock.png FlipEffect H_Val:1V_Val:0
