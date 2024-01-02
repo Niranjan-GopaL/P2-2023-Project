@@ -9,7 +9,7 @@ Image processing application that has provides an intuitive UI to
 - Backend  : Java, C++, Springboot , Maven ( dependency manager for Springboot )
 - Linking  : JNI 
 
---- 
+
 
 ## Setup and installation
 
