@@ -12,16 +12,23 @@ Image processing application that has provides an intuitive UI to
 
 ## Setup and installation
 
+You need to have the following prerequisites :-
+- git
+- gcc 11.4.0^
+- openjdk 15.0.8.1^ 
+- node v18.16.0^
+- idea intellij ( other IDEs would have to build the project accordingly )
 
+
+Open terminal and run the following command.
 ```console
-$ git clone project-dir-github-link
+$ git clone https://github.com/Niranjan-GopaL/P2-2023-Project
 ```
 
 
 ### Front end set up
 
 ```console
-$ cd project-dir
 $ npm i
 $ cd ImageApplicationFrontend/
 $ npm i && npm run start
